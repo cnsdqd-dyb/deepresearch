@@ -247,4 +247,3 @@ For more detailed report, please refer to
     primaryClass={cs.AI}
 }
 ```
-
